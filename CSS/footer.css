@@ -1,0 +1,12 @@
+.footer{
+    background:  #847348;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: .5rem;
+    padding: .2rem;
+}
+
+.footer_p{
+    padding: .1rem;
+}

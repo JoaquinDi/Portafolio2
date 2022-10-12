@@ -86,16 +86,20 @@
         display: none;
     }
 
+    .header_titulos{
+        text-align: center;
+    }
+
     .header_nav{
         justify-content: center;
     }
     .header_nav-redes{
-    width: 10rem;
+    width: 11rem;
     padding: .3rem 0 2px .5rem;
     justify-content: space-between;
     }
 
     .header_redes_img{
-        width: 1.5rem;
+        width: 1.8rem;
     }
 }

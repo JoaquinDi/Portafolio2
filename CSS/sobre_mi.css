@@ -22,3 +22,15 @@
     font-weight: bold;
 }
 
+
+@media (max-width:599px){
+    .sobreMi{
+        text-align: left;
+        height: auto;
+        padding: 3rem 0;
+    }
+
+    .sobreMi_titulo{
+        text-align: center;
+    }
+}

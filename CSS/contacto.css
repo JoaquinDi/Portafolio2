@@ -69,5 +69,22 @@
 }
 
 @media (max-width:599px){
-    
+    .contacto{
+        height: auto;
+    }
+    .contacto_titulo{
+        padding: 0;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .contacto_subtitulo{
+        padding: 1rem 0;
+    }
+
+    .contacto_ul{
+        flex-direction: column;
+    }    
+
 }
